@@ -27,7 +27,7 @@
     "msw": "^2.14.6",
     "eslint": "^9.0.0",
     "@eslint/js": "^9.0.0",
-    "typescript-eslint": "^8.60.0"
+    "typescript-eslint": "^8.60.1"
   },
   "engines": { "node": ">=18.0.0" },
   "license": "MIT",
