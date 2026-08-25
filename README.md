@@ -8,13 +8,13 @@ A Node.js/TypeScript client library for the [Domotz](https://www.domotz.com/) ne
 ## Installation
 
 ```bash
-npm install @wyre-technology/node-domotz
+npm install @wyre-ai/node-domotz
 ```
 
 ## Usage
 
 ```typescript
-import { DomotzClient } from '@wyre-technology/node-domotz';
+import { DomotzClient } from '@wyre-ai/node-domotz';
 
 const domotz = new DomotzClient({
   apiKey: process.env.DOMOTZ_API_KEY!,
