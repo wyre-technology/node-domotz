@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/WYRE-AI/node-domotz/compare/v1.0.0...v1.0.1) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#43](https://github.com/WYRE-AI/node-domotz/issues/43)) ([1fdfd3f](https://github.com/WYRE-AI/node-domotz/commit/1fdfd3f569f82697621530db493a78ef2e7da32f))
+
 # 1.0.0 (2026-08-13)
 
 
