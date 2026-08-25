@@ -1,5 +1,5 @@
 {
-  "name": "@wyre-technology/node-domotz",
+  "name": "@wyre-ai/node-domotz",
   "version": "1.0.0",
   "description": "Node.js client library for the Domotz network monitoring API",
   "type": "module",
@@ -45,6 +45,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wyre-technology/node-domotz"
+    "url": "https://github.com/WYRE-AI/node-domotz"
   }
 }
